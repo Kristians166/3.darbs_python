@@ -1,4 +1,4 @@
-  """
+"""
     Funkcija koks akceptē trīs argumentus - skaiļus viens, divi un trīs, 
     aprēķina to summas kvadrātu un atgriež to.
     Pārbaudiet funkcijas darbību ar dažādiem argumentiem, 
